@@ -1,4 +1,16 @@
 Projeto DoeSangue
+ API desenvolvida para aprendizado 
+ Project Maven / java /  Spring Boot 3.4.4 
+ Java 21
+ 
+Dependencias: 
+Spring Web
+Spring Data JPA
+H2 Database
+Spring Security
+Spring Boot DevTools
+Validation
+
 
 ## Diagrama de Classes
 
