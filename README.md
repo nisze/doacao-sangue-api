@@ -4,11 +4,11 @@ Projeto DoeSangue
  Java 21
  
 Dependencias: 
-Spring Web
-Spring Data JPA
-H2 Database
-Spring Security
-Spring Boot DevTools
+Spring Web,
+Spring Data JPA,
+H2 Database,
+Spring Security,
+Spring Boot DevTools,
 Validation
 
 
